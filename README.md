@@ -2,6 +2,10 @@
 
 A Python script to scrape top posts and their comments from a specified Reddit subreddit within a date range, clean the data, and export to an Excel file.
 
+## Disclaimer
+
+This tool is intended solely for educational and research purposes. Ensure full compliance with Reddit’s Terms of Service, Reddit API policies, and any applicable third-party platform usage rules. Always respect rate limits, authentication requirements, and community guidelines. Do not use this tool to scrape private, restricted, or user-protected content, and avoid any activity that could disrupt or overload Reddit’s services.
+
 ## Features
 
 - Fetches top posts from a subreddit based on score.
